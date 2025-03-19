@@ -1,0 +1,7 @@
+def average(a,b):
+    print("The Average : ",(a+b)/2)
+
+Num1=int(input("Enter the Number 1 : "))
+Num2=int(input("Enter the Number 2 : "))
+
+average(Num1,Num2)
